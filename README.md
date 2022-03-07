@@ -11,4 +11,6 @@
 - 😄 Pronouns: ChaShao!
 - ⚡ Hobbies: Coding, Minecraft
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cha-Shao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cha-Shao&layout=compact" align="left" alt="ChaShao's Github Stats" />
+</a>
