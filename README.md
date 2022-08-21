@@ -7,7 +7,7 @@
 > Everything is worth trying
 
 - 🌱 I’m currently learning `Java` `UI/UX` `drawing` `Vue.js`
-- 📫 How to reach me: yrchashao@foxmail.com
+- 📫 How to contact me: yrchashao@foxmail.com
 - 😄 Nickname: ChaShao
 - ⚡ Hobbies: Coding, Minecraft, Rainbow Six Siege, drawing
 
