@@ -6,10 +6,11 @@
 
 > Everything is worth trying
 
-- 🌱 I’m currently learning `Java` `UI/UX` `drawing` `Vue.js`
+- 🌱 I’m currently learning `Java` `UI/UX` `Vue.js`
 - 📫 How to contact me: yrchashao@foxmail.com
-- 😄 Nickname: ChaShao
-- ⚡ Hobbies: Coding, Minecraft, Rainbow Six Siege, drawing
+- 😄 Call Me: Cha_Shao
+- ⚡ Hobbies: Coding, Minecraft, R6S, Drawing
+- 👍 I Am: Front End Developer, Pixel artist, Modeler
 
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cha-Shao&layout=compact" align="left" alt="ChaShao's Github Stats" />
