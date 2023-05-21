@@ -6,12 +6,12 @@
 
 > Everything is worth trying
 
-- 🌱 I’m currently learning `Java` `React` `Vue.js`
-- 📫 How to contact me: yrchashao@outlook.com
-- 😄 Call Me: Cha_Shao
-- ❤️ Hobbies: Coding, Minecraft, R6S, Drawing
+- 🌱 I’m currently learning `Golang` `React`
+- 📫 How to contact me: yrchashao@outlook.com | yrchashao@foxmail.com
+- 😄 Nickname: Cha_Shao
+- ❤️ Hobbies: Programming, Minecraft, Rainbow Six Siege
 - 👍 I Am: Front End Developer, Pixel artist, Modeler
-- ☁️ Dream: Ski
+- ☁️ Dream: Ski, Parachuting
 
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cha-Shao&layout=compact" align="left" alt="ChaShao's Github Stats" />
