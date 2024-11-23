@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning `Rust` `React`
 - 📫 How to contact me: yrchashao@outlook.com | yrchashao@foxmail.com
 - 😄 Nickname: Cha_Shao
-- ❤️ Hobbies: Programming, Minecraft, Rainbow Six Siege
+- ❤️ Hobbies: Minecraft, Rainbow Six Siege, Kart
 - 👍 I Am: Full Stack Developer, Pixel artist, Modeler
 - ☁️ Dream: Ski, Parachuting
 
